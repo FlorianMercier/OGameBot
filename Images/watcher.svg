@@ -1,0 +1,129 @@
+<svg width="422" height="1019" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="405" y="-83" width="422" height="1019" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(-405 83)">
+    <rect x="444" y="-82" width="382" height="1017" fill="#C9C9C9" fill-opacity="0.501961" />
+    <rect x="411" y="-82" width="33" height="1017" fill="#7C7C7C" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="21"
+      transform="translate(419.851 280)">F<tspan x="0.41333" y="26">L</tspan>
+      <tspan x="-0.333344" y="51">E</tspan>
+      <tspan x="-0.333344" y="77">E</tspan>
+      <tspan x="-0.253326" y="102">T</tspan>
+      <tspan x="-1.66669" y="154">W</tspan>
+      <tspan x="-1.25333" y="179">A</tspan>
+      <tspan x="-0.253326" y="205">T</tspan>
+      <tspan x="-0.753326" y="230">C</tspan>
+      <tspan x="-1.66669" y="256">H</tspan>
+      <tspan x="-0.333344" y="282">E</tspan>
+      <tspan x="-0.920013" y="307">R</tspan>
+    </text>
+    <rect x="466" y="567" width="309" height="255" fill="#9DC3E6" fill-opacity="0.501961" />
+    <rect x="506" y="857" width="229" height="37" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(598 883)">Wait</text>
+    <rect x="485" y="589" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(511.94 620)">Is still happening?</text>
+    <rect x="485" y="665" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(537.12 696)">Delete event</text>
+    <path
+      d="M1-3.49874e-06 1.00008 23.3404-0.999918 23.3404-1 3.49874e-06ZM4.00008 22.007 0.000104987 30.007-3.99992 22.007Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 599 635)" />
+    <path d="M621-66 621-49.1901 619-49.1901 619-66ZM624-50.5235 620-42.5235 616-50.5234Z" />
+    <path d="M600 710.998 600.05 734.066 598.05 734.07 598 711.002ZM603.047 732.726 599.065 740.735 595.047 732.744Z" />
+    <path
+      d="M595.5 640.5C595.5 638.291 597.291 636.5 599.5 636.5 601.709 636.5 603.5 638.291 603.5 640.5 603.5 642.709 601.709 644.5 599.5 644.5 597.291 644.5 595.5 642.709 595.5 640.5Z"
+      stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+    <rect x="466" y="531" width="309" height="37" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(504.375 557)">Get every current event
+    </text>
+    <rect x="485" y="741" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(549.978 771)">Notify bot</text>
+    <path
+      d="M1-2.98274e-06 1.00009 28.5314-0.999915 28.5314-1 2.98274e-06ZM4.00008 27.1981 0.000104987 35.1981-3.99992 27.1981Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 600 786)" />
+    <path d="M0 0 18.6208 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 732.621 612)" />
+    <path d="M0 0 133.747 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 732.747 803)" />
+    <path d="M0 0 0.000104987 191.702" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 732 803.702)" />
+    <rect x="466" y="-6" width="308" height="503" fill="#9DC3E6" fill-opacity="0.501961" />
+    <rect x="484" y="16" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(523.453 46)">Is a new event?</text>
+    <rect x="484" y="92" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(549.227 122)">Add event</text>
+    <path d="M601 440 601 489.991 599 489.991 599 440ZM604 488.658 600 496.658 596 488.658Z" />
+    <path
+      d="M1-3.49874e-06 1.00008 23.3404-0.999918 23.3404-1 3.49874e-06ZM4.00008 22.007 0.000104987 30.007-3.99992 22.007Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 599 62)" />
+    <path d="M0 0 31.2855 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 754.285 40)" />
+    <path d="M600 137.998 600.05 161.066 598.05 161.07 598 138.002ZM603.047 159.726 599.065 167.735 595.047 159.744Z" />
+    <path
+      d="M714.5 40.5001C714.5 38.2909 716.515 36.5001 719 36.5001 721.485 36.5001 723.5 38.2909 723.5 40.5001 723.5 42.7092 721.485 44.5001 719 44.5001 716.515 44.5001 714.5 42.7092 714.5 40.5001Z"
+      stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+    <rect x="466" y="-43" width="308" height="37" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(517.555 -17)">Get every fleet event
+    </text>
+    <rect x="484" y="167" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(502.822 198)">Is an enemy attack?</text>
+    <rect x="485" y="243" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(530.417 273)">Send message</text>
+    <rect x="485" y="319" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(540.27 349)">Warn player</text>
+    <path
+      d="M1-3.49597e-06 1.00008 23.3642-0.999918 23.3642-1 3.49597e-06ZM4.00008 22.0309 0.000104987 30.0309-3.99992 22.0309Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 600 213)" />
+    <path
+      d="M1-3.49874e-06 1.00008 23.3404-0.999918 23.3404-1 3.49874e-06ZM4.00008 22.007 0.000104987 30.007-3.99992 22.007Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 600 289)" />
+    <path d="M601 364.998 601.05 388.066 599.05 388.07 599 365.002ZM604.047 386.726 600.065 394.735 596.047 386.744Z" />
+    <path
+      d="M714.5 189.5C714.5 187.291 716.291 185.5 718.5 185.5 720.709 185.5 722.5 187.291 722.5 189.5 722.5 191.709 720.709 193.5 718.5 193.5 716.291 193.5 714.5 191.709 714.5 189.5Z"
+      stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+    <rect x="485" y="394" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(510.579 425)">Set ghosting timer</text>
+    <path d="M0 0 11.4667 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 734.467 189)" />
+    <path d="M0 0 0.0649869 268.04" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 733 456.04)" />
+    <path d="M0 0 135.17 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 734.17 457)" />
+    <path d="M754.75 477.149 754 39" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+    <path d="M0 0 156.138 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 755.138 477)" />
+    <path d="M600-6 600 9.22656 598 9.22657 598-6ZM603 7.89321 599 15.8932 595 7.89325Z" />
+    <path d="M600 567 600 582.497 598 582.497 598 567ZM603 581.164 599 589.164 595 581.164Z" />
+    <path d="M620-65 801.269-64.9999" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+    <path d="M0 0 0.000104987 983.781" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 802 917.781)" />
+    <path d="M620 894 620 917.81" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+    <path d="M619 917 801.8 917" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+    <path
+      d="M1-4.93148e-06 1.00007 14.6225-0.999928 14.6225-1 4.93148e-06ZM4.00007 13.2891 0.000104987 21.2891-3.99993 13.2892Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 620 836)" />
+    <path
+      d="M621 510.991 621.113 524.043 619.113 524.06 619 511.009ZM624.102 522.684 620.171 530.718 616.102 522.753Z" />
+    <rect x="466" y="497" width="308" height="14" fill="#1F4E79" />
+    <rect x="466" y="822" width="308" height="14" fill="#1F4E79" />
+  </g>
+</svg>

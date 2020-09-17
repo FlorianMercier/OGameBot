@@ -1,0 +1,114 @@
+<svg width="512" height="619" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="129" y="66" width="512" height="619" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(-129 -66)">
+    <rect x="169" y="566" width="471" height="107" fill="#C9C9C9" fill-opacity="0.501961" />
+    <rect x="169" y="67" width="471" height="486" fill="#9DC3E6" fill-opacity="0.501961" />
+    <rect x="210" y="199" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(252.46 230)">Free fleet slot?
+    </text>
+    <rect x="210" y="269" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(267.54 300)">Is ghosting?</text>
+    <rect x="210" y="418" width="230" height="45" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(236.716 448)">Fill ships and send
+    </text>
+    <path d="M0 0 88.3875 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 531.388 222)" />
+    <path d="M442 292 531.872 292.695" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+    <rect x="454" y="119" width="154" height="60" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(467.279 142)">Wait for next<tspan x="36.0533" y="29">event</tspan>
+    </text>
+    <path
+      d="M0.999979-0.00650191 1.23485 36.1158-0.76511 36.1289-0.999979 0.00650191ZM4.22612 34.763 0.278215 42.7889-3.77372 34.815Z"
+      transform="matrix(1 0 0 -1 531 221.789)" />
+    <path d="M326 162 326 192.355 324 192.355 324 162ZM329 191.022 325 199.022 321 191.022Z" />
+    <path d="M0 0 0.000104987 19.3231" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 531 119.323)" />
+    <path
+      d="M1-4.30246e-06 1.00008 17.7349-0.999924 17.7349-1 4.30246e-06ZM4.00007 16.4016 0.000104987 24.4016-3.99993 16.4016Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 325 245)" />
+    <path
+      d="M1-1.02525e-06 1.0001 95.7349-0.999902 95.7349-1 1.02525e-06ZM4.0001 94.4016 0.000104987 102.402-3.9999 94.4016Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 325 315)" />
+    <path d="M0 0 0.000104987 412.878" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 189 511.878)" />
+    <path d="M0 0 173.258 0.789081" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 531.258 100)" />
+    <path d="M0 0 102.197 1.24703" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 190 100.247)" />
+    <path
+      d="M277 139.5C277 127.074 298.49 117 325 117 351.51 117 373 127.074 373 139.5 373 151.926 351.51 162 325 162 298.49 162 277 151.926 277 139.5Z"
+      fill="#1F4E79" fill-rule="evenodd" /><text fill="#FFFFFF" font-family="Calibri,Calibri_MSFontService,sans-serif"
+      font-weight="400" font-size="24" transform="translate(313.073 147)">Or</text>
+    <path d="M292 99 292 116.941 290 116.941 290 99ZM295 115.608 291 123.608 287 115.608Z" />
+    <path d="M360 100 360 116.694 358 116.694 358 100ZM363 115.361 359 123.361 355 115.361Z" />
+    <path
+      d="M0.99999-0.00444924 1.02669 5.99549-0.973295 6.00439-0.99999 0.00444924ZM1.03558 7.99547 1.06228 13.9954-0.937701 14.0043-0.964396 8.00437ZM1.07118 15.9954 1.09787 21.9953-0.902107 22.0042-0.928802 16.0043ZM1.10677 23.9953 1.13347 29.9953-0.866513 30.0042-0.893208 24.0042ZM1.14237 31.9952 1.16906 37.9952-0.830919 38.0041-0.857614 32.0041ZM1.17796 39.9952 1.20466 45.9951-0.795325 46.004-0.82202 40.0041ZM1.21355 47.9951 1.22692 50.9985-0.773064 51.0074-0.786427 48.004ZM4.22095 49.6518 0.256588 57.6695-3.77897 49.6874Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 325.257 535)" />
+    <path
+      d="M440.5 222.5C440.5 220.291 442.515 218.5 445 218.5 447.485 218.5 449.5 220.291 449.5 222.5 449.5 224.709 447.485 226.5 445 226.5 442.515 226.5 440.5 224.709 440.5 222.5Z"
+      stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+    <path
+      d="M440.5 292.5C440.5 290.291 442.515 288.5 445 288.5 447.485 288.5 449.5 290.291 449.5 292.5 449.5 294.709 447.485 296.5 445 296.5 442.515 296.5 440.5 294.709 440.5 292.5Z"
+      stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+    <rect x="136" y="67" width="33" height="486" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(145.649 188)">S<tspan x="-0.333344" y="29">E</tspan>
+      <tspan x="-1.08" y="58">N</tspan>
+      <tspan x="-1.08" y="87">D</tspan>
+      <tspan x="0" y="144">F</tspan>
+      <tspan x="0.419998" y="173">L</tspan>
+      <tspan x="-0.333344" y="202">E</tspan>
+      <tspan x="-0.333344" y="231">E</tspan>
+      <tspan x="-0.333344" y="260">T</tspan>
+    </text>
+    <rect x="136" y="566" width="33" height="107" fill="#7C7C7C" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="21"
+      transform="translate(145.402 588)">N<tspan x="1.33333" y="26">E</tspan>
+      <tspan x="1.08" y="51">X</tspan>
+      <tspan x="1.41333" y="77">T</tspan>
+    </text>
+    <path
+      d="M326 80 326 86 324 86 324 80ZM326 88 326 94 324 94 324 88ZM326 96 326 102 324 102 324 96ZM326 104 326 110 324 110 324 104ZM329 109.174 325 117.174 321 109.174Z" />
+    <rect x="210" y="592" width="230" height="46" fill="#7C7C7C" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(237.973 623)">Next <tspan x="51.0467" y="0">fleet</tspan>
+      <tspan x="101.253" y="0">to</tspan>
+      <tspan x="127.187" y="0">sen</tspan>d
+    </text>
+    <path d="M325 655 620.952 655" stroke="#000000" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="6 2"
+      fill="none" fill-rule="evenodd" />
+    <path d="M0 0 300.977 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="6 2"
+      fill="none" fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 625.977 81)" />
+    <path d="M0 0 4.31843 574.808" stroke="#000000" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="6 2"
+      fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 621 655.808)" />
+    <path d="M325 638 325 655.329" stroke="#000000" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="6 2"
+      fill="none" fill-rule="evenodd" />
+    <rect x="210" y="489" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(278.266 519)">No Error?</text>
+    <path d="M0 0 21.2351 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 210.235 512)" />
+    <path
+      d="M321.5 539C321.5 536.515 323.291 534.5 325.5 534.5 327.709 534.5 329.5 536.515 329.5 539 329.5 541.485 327.709 543.5 325.5 543.5 323.291 543.5 321.5 541.485 321.5 539Z"
+      stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+    <path d="M326 463 326 481.54 324 481.54 324 463ZM329 480.207 325 488.207 321 480.207Z" />
+    <rect x="454" y="319" width="154" height="59" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(467.216 342)">Fill resources <tspan x="13.0867" y="29">and speed</tspan></text>
+    <path d="M532 293 532 312.785 530 312.785 530 293ZM535 311.452 531 319.452 527 311.452Z" />
+    <path d="M0 0 206.235 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 531.235 397)" />
+    <path d="M531 378 531 396.959" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+  </g>
+</svg>

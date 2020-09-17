@@ -1,0 +1,108 @@
+<svg width="956" height="518" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="7" y="175" width="956" height="518" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(-7 -175)">
+    <rect x="45" y="176" width="917" height="516" fill="#C9C9C9" fill-opacity="0.501961" />
+    <rect x="108" y="265" width="314" height="405" fill="#9DC3E6" fill-opacity="0.501961" />
+    <rect x="163" y="320" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(210.97 351)">Ask for mutex</text>
+    <rect x="163" y="406" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(192.066 436)">Perform actions 1</text>
+    <rect x="163" y="491" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(207.176 522)">Release mutex</text>
+    <path d="M325 221 325 313.414 323 313.414 323 221ZM328 312.081 324 320.081 320 312.081Z" />
+    <path
+      d="M1-2.64218e-06 1.00009 33.0682-0.999913 33.0682-1 2.64218e-06ZM4.00008 31.7349 0.000104987 39.7349-3.99992 31.7349Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 278 366)" />
+    <path
+      d="M1-2.64218e-06 1.00009 33.0682-0.999913 33.0682-1 2.64218e-06ZM4.00008 31.7349 0.000104987 39.7349-3.99992 31.7349Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 278 452)" />
+    <path d="M0 0 147.76 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 277.76 651)" />
+    <path d="M0 0 0.403989 368.688" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 130 651.688)" />
+    <path d="M0 0 114.252 0.488504" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 130 282.488)" />
+    <path d="M245 281 245 312.541 243 312.541 243 281ZM248 311.208 244 319.208 240 311.208Z" />
+    <rect x="76" y="265" width="32" height="405" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(85.2632 374)">T<tspan x="-0.746674" y="29">H</tspan>
+      <tspan x="-0.666672" y="58">R</tspan>
+      <tspan x="0" y="87">E</tspan>
+      <tspan x="-0.746674" y="116">A</tspan>
+      <tspan x="-0.746674" y="144">D</tspan>
+      <tspan x="-0.246674" y="202">1</tspan>
+    </text>
+    <rect x="13" y="176" width="32" height="516" fill="#7C7C7C" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="21"
+      transform="translate(20.0023 365)">M<tspan x="0.413334" y="26">A</tspan>
+      <tspan x="0" y="51">N</tspan>
+      <tspan x="0.413334" y="77">A</tspan>
+      <tspan x="0" y="102">G</tspan>
+      <tspan x="1.33333" y="128">E</tspan>
+      <tspan x="0.746666" y="154">R</tspan>
+    </text>
+    <rect x="163" y="583" width="230" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(189.843 614)">Wait <tspan x="51" y="0">for condition</tspan></text>
+    <path d="M0 0 0.256588 22.0777" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 278.257 629)" />
+    <path d="M279 537 279 576.59 277 576.59 277 537ZM282 575.257 278 583.257 274 575.257Z" />
+    <rect x="484" y="265" width="314" height="404" fill="#9DC3E6" fill-opacity="0.501961" />
+    <rect x="540" y="320" width="229" height="45" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(587.267 350)">Ask for mutex</text>
+    <rect x="540" y="405" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(568.363 436)">Perform actions 2</text>
+    <rect x="540" y="491" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(583.473 521)">Release mutex</text>
+    <path d="M701 221 701 313.414 699 313.414 699 221ZM704 312.081 700 320.081 696 312.081Z" />
+    <path
+      d="M1-2.64218e-06 1.00009 33.0682-0.999913 33.0682-1 2.64218e-06ZM4.00008 31.7349 0.000104987 39.7349-3.99992 31.7349Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 654 365)" />
+    <path
+      d="M1-2.64218e-06 1.00009 33.0682-0.999913 33.0682-1 2.64218e-06ZM4.00008 31.7349 0.000104987 39.7349-3.99992 31.7349Z"
+      transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 654 451)" />
+    <path d="M0 0 147.76 0.000104987" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 653.76 651)" />
+    <path d="M0 0 0.403989 368.688" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 506 651.688)" />
+    <path d="M0 0 114.252 0.488504" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" transform="matrix(1 0 0 -1 506 282.488)" />
+    <path d="M622 281 622 313.03 620 313.03 620 281ZM625 311.696 621 319.696 617 311.696Z" />
+    <rect x="452" y="265" width="33" height="404" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(461.56 374)">T<tspan x="-0.746643" y="29">H</tspan>
+      <tspan x="-0.666656" y="58">R</tspan>
+      <tspan x="0" y="87">E</tspan>
+      <tspan x="-0.746643" y="116">A</tspan>
+      <tspan x="-0.746643" y="144">D</tspan>
+      <tspan x="-0.246643" y="202">2</tspan>
+    </text>
+    <rect x="540" y="583" width="229" height="46" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(566.14 613)">Wait for condition</text>
+    <path d="M654 629 654 652.055" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+    <path d="M655 537 655 576.59 653 576.59 653 537ZM658 575.257 654 583.257 650 575.257Z" />
+    <rect x="822" y="432" width="115" height="69" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(851.409 460)">Other <tspan x="-10.5067" y="29">Threads</tspan></text>
+    <rect x="76" y="201" width="87" height="39" fill="#1F4E79" /><text fill="#FFFFFF"
+      font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(88.1662 228)">Mutex</text>
+    <path d="M163 221 734.586 221" stroke="#000000" stroke-width="2" stroke-miterlimit="8" fill="none"
+      fill-rule="evenodd" />
+    <path d="M737 221 852 221" stroke="#000000" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="6 2"
+      fill="none" fill-rule="evenodd" />
+  </g>
+</svg>
